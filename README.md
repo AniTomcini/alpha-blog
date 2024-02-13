@@ -1,5 +1,15 @@
-Trying to deploy to RENDER
+# 🚀 Welcome to your new awesome project!
 
-Also set frozen to false
+This project has been created using **webpack-cli**, you can now run
 
-another test
+```
+npm run build
+```
+
+or
+
+```
+yarn build
+```
+
+to bundle your application
