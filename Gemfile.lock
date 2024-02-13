@@ -266,6 +266,7 @@ DEPENDENCIES
   tzinfo-data
   web-console
   webpacker!
+  pg (~> 15)
 
 RUBY VERSION
    ruby 3.2.2p53
